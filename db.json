@@ -22,41 +22,6 @@
       "precio": 6
     },
     {
-      "id": "1",
-      "farmacia": "Farmacia de 158 y 69",
-      "nombre": "Omeprazol",
-      "cantidad": 1,
-      "precio": 60
-    },
-    {
-      "id": "1",
-      "farmacia": "Farmacia de 158 y 69",
-      "nombre": "Metformina",
-      "cantidad": 10,
-      "precio": 70
-    },
-    {
-      "id": "1",
-      "farmacia": "Farmacia de 158 y 69",
-      "nombre": "Acomicil",
-      "cantidad": 0,
-      "precio": 5
-    },
-    {
-      "id": "1",
-      "farmacia": "Farmacia de 158 y 69",
-      "nombre": "Adiro",
-      "cantidad": 100,
-      "precio": 12
-    },
-    {
-      "id": "1",
-      "farmacia": "Farmacia de 158 y 69",
-      "nombre": "Aspirina",
-      "cantidad": 200,
-      "precio": 60
-    },
-    {
       "id": "2",
       "farmacia": "Farmacia de Belen",
       "nombre": "Odansetron",
@@ -77,41 +42,7 @@
       "cantidad": 0,
       "precio": 6
     },
-    {
-      "id": "2",
-      "farmacia": "Farmacia de Belen",
-      "nombre": "Furosemida",
-      "cantidad": 1,
-      "precio": 60
-    },
-    {
-      "id": "2",
-      "farmacia": "Farmacia de Belen",
-      "nombre": "Nupeldol",
-      "cantidad": 10,
-      "precio": 70
-    },
-    {
-      "id": "2",
-      "farmacia": "Farmacia de Belen",
-      "nombre": "Nolotil",
-      "cantidad": 0,
-      "precio": 5
-    },
-    {
-      "id": "2",
-      "farmacia": "Farmacia de Belen",
-      "nombre": "Comirnaty",
-      "cantidad": 100,
-      "precio": 12
-    },
-    {
-      "id": "2",
-      "farmacia": "Farmacia de Belen",
-      "nombre": "Rybelsus",
-      "cantidad": 200,
-      "precio": 60
-    },
+    
 
     {
       "id": "3",
@@ -135,41 +66,6 @@
       "precio": 6
     },
     {
-      "id": "3",
-      "farmacia": "Farmacia Principal de 10 de Octubre",
-      "nombre": "Todacitan",
-      "cantidad": 1,
-      "precio": 60
-    },
-    {
-      "id": "3",
-      "farmacia": "Farmacia Principal de 10 de Octubre",
-      "nombre": "Vazkepa",
-      "cantidad": 10,
-      "precio": 70
-    },
-    {
-      "id": "3",
-      "farmacia": "Farmacia Principal de 10 de Octubre",
-      "nombre": "Quetiapina",
-      "cantidad": 0,
-      "precio": 5
-    },
-    {
-      "id": "3",
-      "farmacia": "Farmacia Principal de 10 de Octubre",
-      "nombre": "Orfidal",
-      "cantidad": 100,
-      "precio": 12
-    },
-    {
-      "id": "3",
-      "farmacia": "Farmacia Principal de 10 de Octubre",
-      "nombre": "Diclofenaco",
-      "cantidad": 200,
-      "precio": 60
-    },
-    {
       "id": "4",
       "farmacia": "Farmacia La Palma",
       "nombre": "Adrenalina B.",
@@ -190,42 +86,7 @@
       "cantidad": 0,
       "precio": 6
     },
-    {
-      "id": "4",
-      "farmacia": "Farmacia La Palma",
-      "nombre": "Metamizol",
-      "cantidad": 1,
-      "precio": 60
-    },
-
-    {
-      "id": "4",
-      "farmacia": "Farmacia La Palma",
-      "nombre": "Enantyum",
-      "cantidad": 10,
-      "precio": 70
-    },
-    {
-      "id": "4",
-      "farmacia": "Farmacia La Palma",
-      "nombre": "Ozempic",
-      "cantidad": 0,
-      "precio": 5
-    },
-    {
-      "id": "4",
-      "farmacia": "Farmacia La Palma",
-      "nombre": "Dexametasona",
-      "cantidad": 100,
-      "precio": 12
-    },
-    {
-      "id": "4",
-      "farmacia": "Farmacia La Palma",
-      "nombre": "Naproxeno",
-      "cantidad": 200,
-      "precio": 60
-    },
+    
     {
       "id": "5",
       "farmacia": "Farmacia de Dolores",
@@ -247,41 +108,7 @@
       "cantidad": 0,
       "precio": 6
     },
-    {
-      "id": "5",
-      "farmacia": "Farmacia de Dolores",
-      "nombre": "Midazolam",
-      "cantidad": 1,
-      "precio": 60
-    },
-    {
-      "id": "5",
-      "farmacia": "Farmacia de Dolores",
-      "nombre": "Atorvastatina",
-      "cantidad": 10,
-      "precio": 70
-    },
-    {
-      "id": "5",
-      "farmacia": "Farmacia de Dolores",
-      "nombre": "Dolquine",
-      "cantidad": 0,
-      "precio": 5
-    },
-    {
-      "id": "5",
-      "farmacia": "Farmacia de Dolores",
-      "nombre": "Acalka",
-      "cantidad": 100,
-      "precio": 12
-    },
-    {
-      "id": "5",
-      "farmacia": "Farmacia de Dolores",
-      "nombre": "Comirnaty",
-      "cantidad": 200,
-      "precio": 60
-    },
+   
     {
       "id": "6",
       "farmacia": "Farmacia Internacional Comodoro",
@@ -302,41 +129,6 @@
       "nombre": "Aceclofenaco",
       "cantidad": 0,
       "precio": 6
-    },
-    {
-      "id": "6",
-      "farmacia": "Farmacia Internacional Comodoro",
-      "nombre": "Hidroxicloroquina",
-      "cantidad": 1,
-      "precio": 60
-    },
-    {
-      "id": "6",
-      "farmacia": "Farmacia Internacional Comodoro",
-      "nombre": "Ryeqo",
-      "cantidad": 10,
-      "precio": 70
-    },
-    {
-      "id": "6",
-      "farmacia": "Farmacia Internacional Comodoro",
-      "nombre": "Propranolol",
-      "cantidad": 0,
-      "precio": 5
-    },
-    {
-      "id": "6",
-      "farmacia": "Farmacia Internacional Comodoro",
-      "nombre": "Alprazolam",
-      "cantidad": 100,
-      "precio": 12
-    },
-    {
-      "id": "6",
-      "farmacia": "Farmacia Internacional Comodoro",
-      "nombre": "Clonazepam",
-      "cantidad": 200,
-      "precio": 60
     }
   ]
 }
