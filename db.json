@@ -190,12 +190,6 @@
       "nombre": "Todacitan",
       "cantidad": 1,
       "precio": 60
-    },
-    {
-      "farmacia": "Farmacia Principal de 10 de Octubre",
-      "nombre": "Vazkepa",
-      "cantidad": 10,
-      "precio": 70
     }
   ]
 }
