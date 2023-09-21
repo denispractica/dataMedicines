@@ -1,6 +1,11 @@
 {
   "Medicines":[
-    
+     {
+      "farmacia": "Farmacia de 158 y 69",
+      "nombre": "Algo Ahi",
+      "cantidad": 0,
+      "precio": 6
+    },
     {
       "farmacia": "Farmacia de 158 y 69",
       "nombre": "Ibuprofeno",
