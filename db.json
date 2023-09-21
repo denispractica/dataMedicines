@@ -1,6 +1,25 @@
 {
   "Medicines":[
     
+
+   {
+      "farmacia": "1",
+      "nombre": "amoxicilina",
+      "cantidad": 0,
+      "precio": 6
+    },
+    {
+      "farmacia": "1",
+      "nombre": "paracetamol",
+      "cantidad": 10,
+      "precio": 60
+    },
+    {
+      "farmacia": "2",
+      "nombre": "paracetamol",
+      "cantidad": 10,
+      "precio": 60
+    },
     {
       "farmacia": "Farmacia de 158 y 69",
       "nombre": "Ibuprofeno",
