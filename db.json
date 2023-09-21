@@ -2,7 +2,7 @@
   "Medicines":[
      {
       "farmacia": "Farmacia de 158 y 69",
-      "nombre": "Algo Ahi",
+      "nombre": "Algo",
       "cantidad": 0,
       "precio": 6
     },
@@ -107,7 +107,7 @@
     },
      {
       "farmacia": "Farmacia de cosas",
-      "nombre": "Otra cosa",
+      "nombre": "Otra",
       "cantidad": 110,
       "precio":123
     },
