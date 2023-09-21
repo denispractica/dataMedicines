@@ -1,17 +1,6 @@
 {
   "Medicines":[
-      {
-    "farmacia": "Farmacia de 158 y 69",
-    "nombre": "Nistatina",
-    "cantidad": 20,
-    "precio": 10
-     },
-    {
-      "farmacia": "Farmacia de 158 y 69",
-      "nombre": "Paracetamol",
-      "cantidad": 1,
-      "precio": 50
-    },
+    
     {
       "farmacia": "Farmacia de 158 y 69",
       "nombre": "Ibuprofeno",
