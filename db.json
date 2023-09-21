@@ -1,7 +1,25 @@
 {
   "Medicines":[
     
-
+{
+      "farmacia": "5",
+      "nombre": "amoxicilina",
+      "cantidad": 0,
+      "precio": 6
+    },
+    {
+      "farmacia": "3",
+      "nombre": "algo",
+      "cantidad": 0,
+      "precio": 6
+    },
+    
+    {
+      "farmacia": "3",
+      "nombre": "paracetamol",
+      "cantidad": 0,
+      "precio": 6
+    },
    {
       "farmacia": "1",
       "nombre": "amoxicilina",
