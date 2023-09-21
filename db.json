@@ -1,11 +1,6 @@
 {
   "Medicines":[
-     {
-      "farmacia": "Farmacia de 158 y 69",
-      "nombre": "Amoxicilina",
-      "cantidad": 3,
-      "precio": 10
-    },
+     
     {
       "farmacia": "Farmacia de 158 y 69",
       "nombre": "Paracetamol",
