@@ -105,6 +105,12 @@
       "cantidad": 3,
       "precio": 10
     },
+     {
+      "farmacia": "Farmacia de cosas",
+      "nombre": "Otra cosa",
+      "cantidad": 110,
+      "precio":123
+    },
     {
 
       "farmacia": "Farmacia Internacional Comodoro",
